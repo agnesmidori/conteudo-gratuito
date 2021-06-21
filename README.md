@@ -130,6 +130,8 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [FreeCodeCamp](https://www.freecodecamp.org/)                                                                                                  | Cursos                      | Sim         | EN       |
 | [Frontend Challenges](https://github.com/felipefialho/frontend-challenges)                                                                     | Desafios                    | Não         | EN/PT-BR |
 | [Front-end Challenges Club](https://piccalil.li/category/front-end%20challenges%20club/)                                                                     | Desafios                    | Não         | EN |
+| [Frontend Masters](https://frontendmasters.com/bootcamp/)                                                                                      | Bootcamp
+Não         | EN
 | [Front-end Mentor](https://www.frontendmentor.io/challenges)                                                                     | Desafios                    | Não         | EN |
 | [Full Cycle](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)                                                                         | Youtube                    | Não         | PT-BR |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/)                                                                                   | Cursos                      | Sim         | PT-BR    |
